@@ -1,7 +1,12 @@
 # f1rA5h
 
 ### ✨ Who am I?
-I'm 15 YO teenager, Cisco CCNA specialist and member of Microsoft Learn Student Ambassadors program. 
+- I'm 15 YO teenager.
+- Cisco CCNA specialist.
+- Member of Microsoft Learn Student Ambassadors program. 
+- 🌍 My Languages 🇬🇧English and 🇷🇺Russian. 
+- Reachable with [Telegram](https://telegram.me/f1rA5h). 
+- Loves to 👨‍💻code and ⛵sail. 
 
 ### ✨ What have I done?
 - 💻 Made website with Flutter for [WASP-Academy](www.wasp-academy.com)
@@ -17,13 +22,13 @@ I'm 15 YO teenager, Cisco CCNA specialist and member of Microsoft Learn Student 
 
 ### ✨ Languages I've worked with
 - ❤️ Flutter one love
-- C# (.NET, WPF)
-- С++
-- JavaScript
-- Python (telegram bots, backend, AI)
-- Swift
-- Is "Hello, World!" on 192 langs worthy of mention? 
-- And much more that I couldn't remember 
+- 🥈 C# (.NET, WPF)
+- 🥉 Swift
+- 🏅 С++
+- 🏅 JavaScript
+- 🏅 Python (telegram bots, backend, AI)
+- ❓ Is "Hello, World!" on 192 langs worthy of mention? 
+- 💭 And much more that I couldn't remember 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f1rA5h&count_private=true&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1rA5h&count_private=true&show_icons=true&theme=dracula&layout=compact)
