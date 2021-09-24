@@ -1,7 +1,8 @@
 ### f1rA5h
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f1rA5h&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f1rA5h&count_private=true&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
