@@ -2,6 +2,8 @@
 
 ### ✨ Who am I?
 - I'm 15 YO teenager.
+- Lyceum of Information Technologies.
+- Been programming since age 10.
 - Cisco CCNA specialist.
 - Member of Microsoft Learn Student Ambassadors program. 
 - 🌍 My Languages 🇬🇧English and 🇷🇺Russian. 
