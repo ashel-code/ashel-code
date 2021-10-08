@@ -6,7 +6,7 @@
 - Been programming since age 10.
 - Cisco CCNA specialist.
 - Member of Microsoft Learn Student Ambassadors program. 
-- 🌍 My Languages 🇬🇧English and 🇷🇺Russian. 
+- 🌍 My Languages: 🇬🇧English and 🇷🇺Russian. 
 - Reachable with [Telegram](https://telegram.me/f1rA5h). 
 - Loves to 👨‍💻code and ⛵sail. 
 
