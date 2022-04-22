@@ -1,14 +1,14 @@
 # f1rA5h
 
-- 🇬🇧English and 🇷🇺Russian.
+- English and Russian.
 - Reachable with [Telegram](https://telegram.me/f1rA5h). 
 
-### ✨ Who am I?
+###  Who am I?
 - Just a teenager.
-- Lyceum of Information Technologies.
+- Studyng in Lyceum of Information Technologies.
 - Cisco CCNA specialist
 - Member of Microsoft Learn Student Ambassadors program. 
-- Loves to 👨‍💻code and ⛵sail. 
+- Love sailing, photography 
 
 ### ✨ What have I done?
 - 💻 Made website with Flutter for [WASP-Academy](www.wasp-academy.com)
