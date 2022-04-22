@@ -4,7 +4,7 @@
 - Reachable with [Telegram](https://telegram.me/f1rA5h). 
 
 ### ✨ Who am I?
-- I'm 16 YO teenager.
+- Just a teenager.
 - Lyceum of Information Technologies.
 - Cisco CCNA specialist
 - Member of Microsoft Learn Student Ambassadors program. 
