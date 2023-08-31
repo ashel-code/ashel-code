@@ -1,7 +1,7 @@
-## f1rA5h
+## ashel-code
 
 - English and Russian.
-- Reachable with [Telegram](https://telegram.me/f1rA5h). 
+- Reachable with [Telegram](https://telegram.me/a3h5l). 
 
 ####  Who am I?
 - Just a teenager.
